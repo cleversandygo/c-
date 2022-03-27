@@ -6,8 +6,6 @@ using System.Threading.Tasks;
 
 namespace tutorial_5
 {
-    
-
     class Program
     {
         public delegate Employee ManageWorker(int id);
