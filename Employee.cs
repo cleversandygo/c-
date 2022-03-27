@@ -14,7 +14,7 @@ namespace tutorial_5
 
         public override string ToString()
         {
-            return Name + "\t" + Id + "\t" + gender;
+            return Name + "---" + Id + "---" + gender;
         }
 
     }
